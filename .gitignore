@@ -9,3 +9,7 @@
 *.fdb_latexmk
 *.fls
 .synctex.gz
+
+# Paper source and PDF — kept local only, never published to this repo
+A Survey of Classification Algorithms in Pattern Recognition.tex
+A Survey of Classification Algorithms in Pattern Recognition.pdf
