@@ -2,7 +2,7 @@
 
 This repository contains the code and data that reproduce the experimental
 figures in the survey paper *A Survey of Classification Algorithms in Pattern
-Recognition* (course: Advanced Pattern Recognition).
+Recognition*.
 
 ## Contents
 
